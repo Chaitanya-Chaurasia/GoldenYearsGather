@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2E4C226F-C87F-4AD2-80A7-8D4CFFD3090F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4FF6E13-7A4C-4CE8-8AE0-AA93647A42FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenYearsGather/HomePage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "loadQuotes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6149075-355E-42D4-98AA-B34CC98388EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoldenYearsGather/HomePage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "HomePage"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C6149075-355E-42D4-98AA-B34CC98388EA - 40e828430baa15d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoldenYearsGather.HomePage.signInButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "GoldenYearsGather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fse394/Downloads/GoldenYearsGather%202/GoldenYearsGather/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C6149075-355E-42D4-98AA-B34CC98388EA - c7fe8c8f082725db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoldenYearsGather.HomePage.signInButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "GoldenYearsGather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fse394/Downloads/GoldenYearsGather%202/GoldenYearsGather/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "C6149075-355E-42D4-98AA-B34CC98388EA - 586e23a4e1c2d9aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoldenYearsGather.HomePage.signInButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "GoldenYearsGather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fse394/Downloads/GoldenYearsGather%202/GoldenYearsGather/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C6149075-355E-42D4-98AA-B34CC98388EA - 3461c516d4a10ec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoldenYearsGather.HomePage.signInButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "GoldenYearsGather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fse394/Downloads/GoldenYearsGather%202/GoldenYearsGather/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C6149075-355E-42D4-98AA-B34CC98388EA - 6528ff032de037c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoldenYearsGather.HomePage.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GoldenYearsGather.HomePage"
+                  moduleName = "GoldenYearsGather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fse394/Downloads/GoldenYearsGather%202/GoldenYearsGather/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "C6149075-355E-42D4-98AA-B34CC98388EA - 865f6bec665b5f72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoldenYearsGather.HomePage.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GoldenYearsGather.HomePage&gt;"
+                  moduleName = "GoldenYearsGather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fse394/Downloads/GoldenYearsGather%202/GoldenYearsGather/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
