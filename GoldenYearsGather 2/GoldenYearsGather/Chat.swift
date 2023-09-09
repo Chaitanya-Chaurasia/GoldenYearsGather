@@ -1,9 +1,3 @@
-//
-//  Chat.swift
-//  GoldenYearsGather
-//
-//  Created by FSE394 on 4/28/23.
-//
 
 import UIKit
 
